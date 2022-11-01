@@ -3,6 +3,8 @@ An egg catcher game tests your concentration and the speed of your reflexes as y
 
 To create an egg catcher game using Python, we need to use three different loops:
 
-One to create new eggs.
-Another to check if the catcher has caught an egg.
-And the third loop to move eggs and to check if the eggs touched the ground.
+1. One to create new eggs.
+
+2. Another to check if the catcher has caught an egg.
+
+3. And the third loop to move eggs and to check if the eggs touched the ground.
